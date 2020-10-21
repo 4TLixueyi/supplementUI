@@ -1,7 +1,6 @@
-# supplementUI
+# supplementUI v0.0.1
 ElementUI组件库的补充（工作中重组的组件）
 
-# hello-world
 
 ## Project setup
 ```
