@@ -1,5 +1,5 @@
 {
-  "name": "hello-world",
+  "name": "supplyment",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -10,7 +10,8 @@
   "dependencies": {
     "core-js": "^3.6.5",
     "vue": "^2.6.11",
-    "vue-router": "^3.2.0"
+    "vue-router": "^3.2.0",
+    "webpack-cli": "^4.1.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
@@ -28,5 +29,17 @@
     "stylus": "^0.54.7",
     "stylus-loader": "^3.0.2",
     "vue-template-compiler": "^2.6.11"
-  }
+  },
+  "description": "ElementUI组件库的补充  (工作中重组的组件）",
+  "main": ".eslintrc.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4TLixueyi/supplementUI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/4TLixueyi/supplementUI/issues"
+  },
+  "homepage": "https://github.com/4TLixueyi/supplementUI#readme"
 }
